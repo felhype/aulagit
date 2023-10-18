@@ -1,0 +1,31 @@
+ 
+aluno: Felipe Rian
+turma: 3º inf
+
+atividade:
+
+Commit:é uma ação em programação que registra as mudanças em um sistema de controle de versão.
+
+Branch :cópia separada de código onde os desenvolvedores podem fazer alterações sem afetar o código principal,
+permitindo o desenvolvimento paralelo e posterior integração das mudanças.
+
+Merge :é o processo de combinar alterações de ramos de desenvolvimento diferentes em um único conjunto de alteração.
+
+Mainline :linha de desenvolvimento principal de um projeto de software onde o código estável é mantido.
+
+Clone :é o processo de criar uma cópia idêntica de um repositório de código.
+
+Push : envia as alterações locais para um repositório remoto.
+
+Pull : obtem as alterações mais recentes de um repositório remoto no seu ambiente local.
+
+ADD :seleciona alterações para o commit no git.
+
+Staged : significa que as alterações estão próximas para serem incluídas no próximo commit.
+
+Version : refere-se a uma interação específica de um programa ou projeto de software.
+
+Repository : é onde o código de um projeto é armazenado e gerenciado.
+
+
+
